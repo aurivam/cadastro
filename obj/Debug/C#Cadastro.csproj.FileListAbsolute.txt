@@ -1,0 +1,30 @@
+C:\Users\Auri\Documents\Visual Studio 2022\C#Cadastro\C#Cadastro\bin\Debug\C#Cadastro.exe.config
+C:\Users\Auri\Documents\Visual Studio 2022\C#Cadastro\C#Cadastro\bin\Debug\C#Cadastro.exe
+C:\Users\Auri\Documents\Visual Studio 2022\C#Cadastro\C#Cadastro\bin\Debug\C#Cadastro.pdb
+C:\Users\Auri\Documents\Visual Studio 2022\C#Cadastro\C#Cadastro\obj\Debug\C#Cadastro.csproj.AssemblyReference.cache
+C:\Users\Auri\Documents\Visual Studio 2022\C#Cadastro\C#Cadastro\obj\Debug\C_Cadastro.Form1.resources
+C:\Users\Auri\Documents\Visual Studio 2022\C#Cadastro\C#Cadastro\obj\Debug\C_Cadastro.Properties.Resources.resources
+C:\Users\Auri\Documents\Visual Studio 2022\C#Cadastro\C#Cadastro\obj\Debug\C#Cadastro.csproj.GenerateResource.cache
+C:\Users\Auri\Documents\Visual Studio 2022\C#Cadastro\C#Cadastro\obj\Debug\C#Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Auri\Documents\Visual Studio 2022\C#Cadastro\C#Cadastro\obj\Debug\C#Cadastro.exe
+C:\Users\Auri\Documents\Visual Studio 2022\C#Cadastro\C#Cadastro\obj\Debug\C#Cadastro.pdb
+C:\Users\Auri\Desktop\backup\C#Cadastro\bin\Debug\C#Cadastro.exe.config
+C:\Users\Auri\Desktop\backup\C#Cadastro\bin\Debug\C#Cadastro.exe
+C:\Users\Auri\Desktop\backup\C#Cadastro\bin\Debug\C#Cadastro.pdb
+C:\Users\Auri\Desktop\backup\C#Cadastro\obj\Debug\C#Cadastro.csproj.AssemblyReference.cache
+C:\Users\Auri\Desktop\backup\C#Cadastro\obj\Debug\C_Cadastro.Form1.resources
+C:\Users\Auri\Desktop\backup\C#Cadastro\obj\Debug\C_Cadastro.Properties.Resources.resources
+C:\Users\Auri\Desktop\backup\C#Cadastro\obj\Debug\C#Cadastro.csproj.GenerateResource.cache
+C:\Users\Auri\Desktop\backup\C#Cadastro\obj\Debug\C#Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Auri\Desktop\backup\C#Cadastro\obj\Debug\C#Cadastro.exe
+C:\Users\Auri\Desktop\backup\C#Cadastro\obj\Debug\C#Cadastro.pdb
+C:\Users\Auri\Desktop\backup\C#Cadastro - Copia\bin\Debug\C#Cadastro.exe.config
+C:\Users\Auri\Desktop\backup\C#Cadastro - Copia\bin\Debug\C#Cadastro.exe
+C:\Users\Auri\Desktop\backup\C#Cadastro - Copia\bin\Debug\C#Cadastro.pdb
+C:\Users\Auri\Desktop\backup\C#Cadastro - Copia\obj\Debug\C#Cadastro.csproj.AssemblyReference.cache
+C:\Users\Auri\Desktop\backup\C#Cadastro - Copia\obj\Debug\C_Cadastro.Form1.resources
+C:\Users\Auri\Desktop\backup\C#Cadastro - Copia\obj\Debug\C_Cadastro.Properties.Resources.resources
+C:\Users\Auri\Desktop\backup\C#Cadastro - Copia\obj\Debug\C#Cadastro.csproj.GenerateResource.cache
+C:\Users\Auri\Desktop\backup\C#Cadastro - Copia\obj\Debug\C#Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Auri\Desktop\backup\C#Cadastro - Copia\obj\Debug\C#Cadastro.exe
+C:\Users\Auri\Desktop\backup\C#Cadastro - Copia\obj\Debug\C#Cadastro.pdb
